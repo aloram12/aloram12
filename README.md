@@ -1,7 +1,8 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?
-  font=Montserrat&size=35&center=true&vCetner=true&width=500&height=70&duration=5000&lines=Hello+World+🌎;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readmetypingsvg.herokuapp.com/font=Montserrat&size=35&center=true&vCetner=true&width=500&height=70&duration=5000&lines=Hello+World+🌎;
     +I'm+Alondra+Ramirez!;"/>
+  </a>
 </h1>
 
 <h3 align="center> Curious and dedicated I.T. Student at University of Washington</h3>
